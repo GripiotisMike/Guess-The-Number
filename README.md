@@ -1,4 +1,4 @@
-# GuessTheNumber
+# Guess The Number Game
 
 - In this Project I learned about the difference between Global and Local Scope/Variables!
 
